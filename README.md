@@ -8,7 +8,7 @@
 
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/flavio.muriel.96?wtsid=rdr_0lwm2UEVGHGdjBh77)
 
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](f.m.nunesss@gmail.com)
 
 
 
