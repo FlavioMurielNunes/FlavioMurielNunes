@@ -8,6 +8,9 @@
 
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/flavio.muriel.96?wtsid=rdr_0lwm2UEVGHGdjBh77)
 
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+
 ### TECNOLOGIAS QUE ESTOU UTILIZANDO NO MEU DIA 
 
 <div style="display:inline_block"><br/>
